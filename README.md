@@ -12,7 +12,9 @@ And the machine can make only two kinds of coffee, Americano and Ratte.
 
 We can select how many cups we are going to take. (1 ~ 5)
 
-The signal that 'take out' hole is empty now is input from outside module. 
+When a coffee was made, machine give us some signal that please take out the coffee. 
+
+If we take out the coffee, then The signal that 'take out' hole is empty now is input from outside module. 
 
 Because the time you take out coffee depends on your will.
 
@@ -52,8 +54,7 @@ And I attached some **wave form** image result of running the **Test Bench**.
 
 To explain,
 
-1. set the prices of coffees. (manage -> set prices -> confirm)
-
+1. set the prices of coffees. (manage -> set prices -> confirm).
 In this case, Americano costs 200 (200 -> 4 -> b'100), Ratte costs 300 (300 -> 6 -> b'011).
 2. insert three coins has the value 100.
 3. select the kind of coffee as Americano.
@@ -61,3 +62,5 @@ In this case, Americano costs 200 (200 -> 4 -> b'100), Ratte costs 300 (300 -> 6
 5. push the 'start' button.
 6. take out an americano.
 7. push the 'return' button.
+
+![screenshot1](./post-translate.PNG)
