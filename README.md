@@ -32,7 +32,7 @@ And whenever you take a coffee, next coffee will be making. if it remains.
 
 If you are the owner of the machine, you can adjust prices of coffee.
 
-And it olso takes a few steps.
+And it also takes a few steps.
 
 1. push the 'manage' button.
 2. set the prices of each coffee in binary value. if it costs 100, then it would be 2 (50 -> 1) and you'd input '10' in binary. 
