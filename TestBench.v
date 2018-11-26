@@ -6,7 +6,7 @@
 //
 // Create Date:   09:50:10 06/20/2018
 // Design Name:   UUT
-// Module Name:   /home/ise/ise_projects/Term/TestVench.v
+// Module Name:   /home/ise/ise_projects/Term/TestBench.v
 // Project Name:  Term
 // Target Device:  
 // Tool versions:  
@@ -22,7 +22,7 @@
 // 
 ////////////////////////////////////////////////////////////////////////////////
 
-module TestVench;
+module TestBench;
 
 	// Inputs
 	reg CLK;
